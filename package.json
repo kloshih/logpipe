@@ -1,0 +1,26 @@
+{
+  "name": "logpipe",
+  "version": "0.1.0",
+  "description": "Multipurpose logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kloshih/logpipe.git"
+  },
+  "keywords": [
+    "Log"
+  ],
+  "author": "Lo Shih <kloshih@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kloshih/logpipe/issues"
+  },
+  "homepage": "https://github.com/kloshih/logpipe#readme",
+  "dependencies": {
+    "sprintf": "^0.1.5",
+    "strftime": "^0.10.0"
+  }
+}
